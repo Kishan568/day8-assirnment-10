@@ -1,0 +1,8 @@
+E:\Users\kishan\source\repos\day-8 assinmt-10\bin\Debug\day-8 assinmt-10.exe.config
+E:\Users\kishan\source\repos\day-8 assinmt-10\bin\Debug\day-8 assinmt-10.exe
+E:\Users\kishan\source\repos\day-8 assinmt-10\bin\Debug\day-8 assinmt-10.pdb
+E:\Users\kishan\source\repos\day-8 assinmt-10\obj\Debug\day-8 assinmt-10.csproj.AssemblyReference.cache
+E:\Users\kishan\source\repos\day-8 assinmt-10\obj\Debug\day-8 assinmt-10.csproj.SuggestedBindingRedirects.cache
+E:\Users\kishan\source\repos\day-8 assinmt-10\obj\Debug\day-8 assinmt-10.csproj.CoreCompileInputs.cache
+E:\Users\kishan\source\repos\day-8 assinmt-10\obj\Debug\day-8 assinmt-10.exe
+E:\Users\kishan\source\repos\day-8 assinmt-10\obj\Debug\day-8 assinmt-10.pdb
